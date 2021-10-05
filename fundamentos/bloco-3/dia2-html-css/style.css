@@ -1,0 +1,29 @@
+h1 {
+    font-size: 65px;
+    color: orange;
+    font-family: sans-serif;
+}
+h2 {
+    width: 3em;
+    font-style: italic;
+    line-height: 2em;
+    text-decoration:royalblue
+}
+ul {
+    background-color: palegoldenrod;
+}
+.items {
+    color: red;
+}
+body {
+    font-size: 16px; 
+}
+#corazul{
+    background-color: royalblue;
+}
+#coramarelo{
+    background-color: yellow;
+}
+#corverde{
+    background-color: green;
+}
