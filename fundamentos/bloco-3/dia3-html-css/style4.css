@@ -1,0 +1,20 @@
+div:hover {
+    border: 2px black solid;
+}
+:nth-child(3) {
+    background-color: red;
+    
+}
+:nth-child(4) {
+    background-color: blueviolet;
+}
+:nth-child(5) {
+    background-color: blue;
+    font-size: 30px;
+}
+:nth-child(6) {
+    background-color: yellow;
+}
+:nth-child(7) {
+    background-color: green;
+}
